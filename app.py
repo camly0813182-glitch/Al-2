@@ -57,7 +57,6 @@ KHO_THONG_MINH = {
         "Trung bình": ["Làm ăn cẩu thả, cái size cơ bản cũng giao sai được!", "Bắt khách đợi rồi lại giao sai size, shop đùa tôi à?", "Định bắt tôi mặc cái thứ không vừa này để đi diễn hài sao?", "Giao sai size rồi giờ bắt khách chịu phí ship đổi trả à? Vô lý!", "Làm ăn thiếu chuyên nghiệp quá, giao sai hết lần này đến lần khác!", "Đổi gấp size đúng cho tôi trong hôm nay, không thì hoàn tiền!"],
         "Cao": ["Mù chữ à? Đơn ghi XL mà giao sang M là sao?", "Lừa đảo! Giao sai size để đẩy hàng tồn chứ gì?", "Cút! Mang cái mớ giẻ rách nhầm size này về ngay!", "Tôi sẽ bóc phốt cái sự làm ăn mù quáng giao sai size này!", "Thách thức sự kiên nhẫn của tôi bằng việc giao sai size à?", "Đồ thất đức! Giao sai rồi còn bắt khách chờ đợi, biến đi!"]
     }
-
 # 3. THANH BÊN (SIDEBAR)
 with st.sidebar:
     st.header("⚙️ ĐIỀU KHIỂN")
