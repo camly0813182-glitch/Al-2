@@ -6,7 +6,7 @@ st.set_page_config(page_title="Hệ thống Khủng hoảng Thông minh", page_i
 
 # --- CÂU MỞ ĐẦU CHO 3 TÌNH HUỐNG ---
 CAU_MO_DAU = {
-    "Sản phẩm lỗi": "Này shop, cái áo tôi vừa nhận sao bị rách vế bên trái thế này? Làm ăn kiểu gì vậy?",
+    "Sản phẩm lỗi": "Này con kia,sao giao tao cái áo rách ? ",
     "Nhân viên thái độ": "Tôi yêu cầu gặp quản lý! Nhân viên thu ngân ở đây có thái độ cực kỳ lồi lõm với khách hàng!",
     "Giao hàng/Dịch vụ": "Hẹn giao buổi sáng mà giờ tối mịt mới tới, lại còn giao sai size! Định lừa khách à?"
 }
